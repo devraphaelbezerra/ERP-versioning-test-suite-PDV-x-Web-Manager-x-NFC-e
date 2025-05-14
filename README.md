@@ -29,7 +29,7 @@ erp-versioning-test-suite/
 
 ```markdown
 # 🧪 Teste de Versão: 2.14.128.120.e (RADEZ-57)
-- 📅 Data: 24/04/2020
+- 📅 Data: 24/04/2018
 - ⏱️ Hora: 15:35
 - 💾 CODFON: 1_x_x_430 [CZ]
 - ⚙️ Kernel: 1.14.124.404
